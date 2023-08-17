@@ -52,6 +52,7 @@ De naam van de bestemming begint met een hoofdletter en is verder gelijk aan de 
 
 <i>Voorbeeld: Agrarisch</i>
 
+
 <b>Variant 2 - specifieke bestemmingsbenaming gebruiken</b>
 
 Nadere specificatie van een bestemming is mogelijk door achter de naam van de hoofdgroep een specifieke bestemmingsbenaming te zetten. Hierdoor ontstaat een aparte bestemming met eigen regels. Van deze mogelijkheid wordt gebruik gemaakt wanneer zich binnen dezelfde hoofdgroep functies voordoen die qua ruimtelijke kenmerken en effecten grote verschillen vertonen en het niet wenselijk is al die functies op een bepaalde plaats toe te laten. De naam van de gespecificeerde bestemming bestaat uit de naam van de hoofdgroep gevolgd door de naam van de specificatie.
@@ -64,13 +65,16 @@ De naam van een gespecificeerde bestemming wordt als volgt opgenomen, waarbij de
 
 \<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \<Specificatie van de bestemming\>
 
+
 <i>Voorbeeld: Agrarisch</i> <i>–</i> <i>Akkerbouw</i>
+
 
 <b>Variant 3 - Bestemming splitsen</b>
 
 Splitsing van bestemmingen wordt gebruikt wanneer zich binnen dezelfde bestemming geheel verschillende stedenbouwkundige situaties voordoen die om heel verschillende bouwregels vragen. Daarnaast wordt splitsing gebruikt wanneer binnen dezelfde hoofdgroep diverse pakketten aan functies zijn te onderscheiden en er zonder splitsing een opeenhoping aan functieaanduidingen zou ontstaan. Bij splitsing van bestemmingen wordt altijd van Arabische cijfers gebruik gemaakt. De eerste letter van de hoofdgroep begint met een hoofdletter. De naam van een gesplitste bestemming wordt als volgt opgenomen, waarbij de eerste letter van de hoofdgroep begint met een hoofdletter:
 
 \<\<Naam hoofdgroep\>\> \[spatie\] \[-\] \[spatie\] \<cijfer\>
+
 
 <i>Voorbeeld : Gemengd</i> <i>–</i> <i>1</i>
 
@@ -81,6 +85,7 @@ In het geval dat een bestemming wordt gesplitst waarvoor een specifieke bestemmi
 <i>Voorbeeld</i> <i>1</i><i>:</i> <i>Water – Vaarwegen 1</i>
 
 <i>Voorbeeld</i> <i>2:</i> <i>Water – Vaarwegen 2</i>
+
 
 <b>Variant</b> <b>4</b> <b>- Bestemming onder de hoofdgroep Overig</b>
 
@@ -143,4 +148,3 @@ In overige gevallen wordt de bestemming als volgt in de planregels opgenomen:
 <i>Voorbeeld: ‘Agrarisch’</i>
 
 Bij het opnemen van bestemmingen wordt in de planregels geen gebruik gemaakt van lettercodes.
-
