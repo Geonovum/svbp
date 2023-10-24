@@ -25,14 +25,19 @@ var documentConfig =
   issueBase: "ro-standaarden@geonovum.nl",
   authors: [
     {
-      name: "Beheerder RO Standaarden",
+      name: "Arie Duindam",
+      company: "Geonovum",
+      companyURL: "https://www.geonovum.nl/"
+    }
+	    {
+      name: "Monique van Scherpenzeel",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
   ],
   editors: [
     {
-      name: "Beheerder RO Standaarden",
+      name: "Monique van Scherpenzeel",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
