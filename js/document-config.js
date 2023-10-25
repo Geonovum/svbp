@@ -28,8 +28,8 @@ var documentConfig =
       name: "Arie Duindam",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
-    }
-	    {
+    },
+    {
       name: "Monique van Scherpenzeel",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
