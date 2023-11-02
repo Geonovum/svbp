@@ -1,6 +1,6 @@
 var documentConfig =
 {
-  title: "Standaard Vergelijkbare Bestemmingsplannen (SVBP2012)",
+  title: "Standaard Vergelijkbare Bestemmingsplannen (SVBP2012) versie 1.3.2",
   subtitle: "Bijlage 5 behorende bij de Regeling standaarden ruimtelijke ordening",
   shortName: "svbp",
   pubDomain: "ro",
