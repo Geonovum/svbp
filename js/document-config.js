@@ -8,9 +8,9 @@ var documentConfig =
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
-    "docs.geostandaarden.nl/ro/svbp/"
+    "https://docs.geostandaarden.nl/ro/svbp/"
   ],
-  publishDate: "2023-08-31",
+  publishDate: "2023-12-01",
   publishVersion: "1.3.2",
   thisVersion: [
     "https://geonovum.github.io/svbp/"
@@ -25,14 +25,14 @@ var documentConfig =
   issueBase: "ro-standaarden@geonovum.nl",
   authors: [
     {
-      name: "Arie Duindam",
-      company: "Geonovum",
-      companyURL: "https://www.geonovum.nl/"
+      name: "Rudolf Jekel",
+      company: "Sonsbeek Adviseurs",
+      companyURL: "https://www.sonsbeek.nl/"
     },
     {
-      name: "Monique van Scherpenzeel",
-      company: "Geonovum",
-      companyURL: "https://www.geonovum.nl/"
+      name: "Fokke Plantinga",
+      company: "Buro Vijn bv",
+      companyURL: "https://www.burovijn.nl/"
     }
   ],
   editors: [
