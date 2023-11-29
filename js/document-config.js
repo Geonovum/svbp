@@ -1,16 +1,15 @@
 var documentConfig =
 {
   title: "Standaard Vergelijkbare Bestemmingsplannen (SVBP2012) versie 1.3.2",
-  subtitle: "Geonovum norm",
   shortName: "svbp",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "dv",
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/svbp/"
   ],
-  publishDate: "2023-12-01",
+  publishDate: "2023-11-29",
   publishVersion: "1.3.2",
   thisVersion: [
     "https://geonovum.github.io/svbp/"
