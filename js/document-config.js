@@ -3,7 +3,7 @@ var documentConfig =
   title: "Standaard Vergelijkbare Bestemmingsplannen (SVBP2012) versie 1.3.2",
   shortName: "svbp",
   pubDomain: "ro",
-  specStatus: "dv",
+  specStatus: "def",
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
