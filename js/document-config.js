@@ -12,7 +12,7 @@ var documentConfig =
   publishDate: "2023-11-29",
   publishVersion: "1.3.2",
   thisVersion: [
-    "https://geonovum.github.io/svbp/"
+    "https://docs.geostandaarden.nl/ro/def-st-svbp-20231129/"
   ],
   previousPublishDate: "2013-10-29",
   previousPublishVersion: "1.3.1",
